@@ -1,0 +1,34 @@
+{
+    "General Settings": {
+        "Use Proxies": true,
+        "Scrape Proxies": true,
+        "Use Random API": true,
+        "Tasks": 50,
+        "Delay": 0,
+        "Show Logs": true
+    },
+    "Nuke Settings": {
+        "Token": "",
+        "Prefix": "$",
+        "Server Name": "Raid By - KS- InfernalSquad",
+        "Channel Names": ["Pwned", "GG", "EZ", "XD"],
+        "Role Names": ["Raideados", "Negros"],
+        "Spam Contents": [
+            "@everyone https://discord.gg/KEkTdDNnd7 EZZZ",
+            "@everyone https://discord.gg/jpUUBpeRJj https://cdn.discordapp.com/attachments/1040655754580987928/1042833667631890513/shopitem_1.webp",
+            "@everyone Imaginense Ser El Owner jajajaja"
+        ],
+        "Webhook Usernames": [
+            "Daniel god",
+            "MARTIN always wins"
+        ],
+        "Whitelisted": [
+            1018687663626276976
+        ],
+        "Authorized": [
+            1018687663626276976
+        ],
+        "Webhook Spam": true,
+        "Bot": true
+    }
+}
